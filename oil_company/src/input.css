@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.pic-height{
+    height: 90vh;
+}
+
+.my-1-0{
+    margin-right: 12.5%;
+    margin-left: 12.5%;
+}
+
+.m-r{
+    margin-left: 20%;
+}
+
+.m-l{
+    margin-left: 20%;
+}
+
+.last{
+    height: 45vh;
+}
+
+.ml-2-0{
+    margin-left: 31rem;
+}
